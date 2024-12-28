@@ -1,1 +1,1 @@
-# RNP_5
+Folosind codul exemplu destinat recunoașterii cifrelor scrise de mână (baza de date "MNIST") din fișierul Jupyter notebook “DEMO CODE - TF2 Keras MNIST clasic.ipynb”, am completat secțiunile necesare pentru a rezolva problema clasificării articolelor vestimentare utilizând baza de date “Fashion MNIST” din fișierul “STARTER CODE - TF2 Keras Fashion MNIST.ipynb”.
